@@ -7,7 +7,7 @@
  * @package  l4-Newsmodulesettings
  */
 
-namespace jaapgoorhuis\LaravelNewsmodulesettings;
+namespace newsmodulesettings\LaravelNewsmodulesettings;
 
 use Illuminate\Database\Connection;
 class DatabaseNewsmodulesettingStore extends NewsmodulesettingStore

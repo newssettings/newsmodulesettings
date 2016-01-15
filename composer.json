@@ -1,5 +1,5 @@
 {
-    "name": "jaapgoorhuis/l4-newsmodulesettings",
+    "name": "newsmodulesettings/l4-newsmodulesettings",
     "description": "Persistant newsmodulesettings in Laravel.",
     "license": "MIT",
     "authors": [
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jaapgoorhuis\\LaravelNewsmodulesettings\\": "src/"
+            "newsmodulesettings\\LaravelNewsmodulesettings\\": "src/"
         }
     },
     "minimum-stability": "dev",
